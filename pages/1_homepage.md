@@ -49,87 +49,111 @@ function toggleBibtex(articleid) {
 ### Biography
  
 | <br>**Tian-Jing Zhang （张添敬）** is a senior student majoring in Mathematics and Physics Basic Science in <a href="https://www.yingcai.uestc.edu.cn/" style="color: blue">Yingcai Honors College (英才实验学院)</a>, <a href="https://www.uestc.edu.cn/" style="color: blue">UESTC (电子科技大学)</a>, supervised by <a href="https://liangjiandeng.github.io/" style="color: blue"> Prof. Liang-Jian Deng</a>. I'm broadly interested in computer vision and deep learning. My current research focuses on remote sensing pansharpening, image fusion and deep learning. I will pursue my Ph.D. degree in <a href="https://www.math.nus.edu.sg/" style="color: blue">Department of Mathematics</a>, National University of Singapore (NUS) . </p>
- <br> <br> **Email：** <zhangtianjinguestc@163.com> &emsp; 
+ <br> <br> **Email：** <zhangtianjinguestc@163.com> &emsp; <br><br>| &emsp;![image](https://github.com/tianjingzhang/tianjingzhang.github.io/blob/main/tjZhang.jpg)&emsp; |
 
 
 
 ### Publications
 
 **Accepted**
-
-* **J.-F. Hu**, T.-Z. Huang, L.-J. Deng, T.-X. Jiang, G. Vivone, and J. Chanussot. Hyperspectral Image Super-Resolution via Deep Spatiospectral Attention Convolutional Neural Networks. **_IEEE Transactions on Neural Networks and Learning Systems_**, 2021, doi: 10.1109/TNNLS.2021.3084682. [[Project Page](https://liangjiandeng.github.io/Projects_Res/HSRnet_2021tnnls.html)][[PDF](https://liangjiandeng.github.io/papers/2021/HSRnet_tnnls_2021.pdf)]<a href="javascript:toggleBibtex('Hutnnls')" class="textlink">[BibTeX]</a>
-<div id="bib_Hutnnls" class="BibTeX noshow">
+* ZiRong Jin, **TianJing Zhang**, Cheng Jin and LiangJian Deng. “Weighted shallow-deep feature fusion network for pansharpening.” **_2021 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2021)_**
+</div>
+* ShiShi Xiao, Cheng Jin, TianJing Zhang, Ran Ran and LiangJian Deng. “Progressice band- convolutional neural network for pansharpening.” **_2021 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2021)_**
+</div>
+* YuDong Wang, LiangJian Deng, and **TianJing Zhang**.“SSconv: Explicit Spectral-to-Spatial Convolution for Pansharpening.” **_2021 ACM International Conference on Multimedia (ACM MM 2021)_**. doi: 10.1145/3474085.3475600. [[Project Page](https://github.com/liangjiandeng/MUCNN)][[PDF](https://liangjiandeng.github.io/papers/2021/mucnn_mm2021/mucnn_mm2021.pdf)]<a href="javascript:toggleBibtex('mucnn')" class="textlink">[BibTeX]</a>
+<div id="bib_mucnn" class="BibTeX noshow">
 <pre>
-@ARTICLE{Hutnnls,
-	author={Hu, Jin-Fan and Huang, Ting-Zhu and Deng, Liang-Jian and Jiang, Tai-Xiang and Vivone, Gemine and Chanussot, Jocelyn},
-	journal={IEEE Transactions on Neural Networks and Learning Systems}, 
-	title={Hyperspectral Image Super-Resolution via Deep Spatiospectral Attention Convolutional Neural Networks}, 
+@ARTICLE{mucnn,
+author={Yudong Wang, Liang-Jian Deng, Tian-Jing Zhang, Xiao Wu},
+booktitle={Proceedings of the 29th ACM International Conference on Multimedia (ACM MM)},
+title={SSconv: Explicit Spectral-to-Spatial Convolution for Pansharpening},
+year={2021},
+pages={DOI: 10.1145/3474085.3475600.},
+}
+</pre>
+</div>
+* ZiRong Jin, LiangJian Deng, **TianJing Zhang** and XiaoXu Jin.“BAM: Bilateral Activation Mechanism for Image Fusion.”**_2021 ACM International Conference on Multimedia (ACM MM 2021)_**. doi: 10.1145/3474085.3475571. [[Project Page](https://liangjiandeng.github.io/Projects_Res/bam_mm2021.html)][[PDF](https://liangjiandeng.github.io/papers/2021/bam_mm2021.pdf)]<a href="javascript:toggleBibtex('BAM')" class="textlink">[BibTeX]</a>
+<div id="bib_BAM" class="BibTeX noshow">
+<pre>
+@ARTICLE{BAM,
+author={Zi-Rong Jin , Liang-Jian Deng, Tian-Jing Zhang, Xiaoxu Jin},
+journal={Proceedings of the 29th ACM International Conference on Multimedia (ACM MM)},
+title={BAM: Bilateral Activation Mechanism for Image Fusion},
+year={2021},
+volume={},
+number={},
+pages={DOI: 10.1145/3474085.3475571},
+}
+</pre>
+</div>
+* Wu Xiao, TingZhu Huang, LiangJian Deng and **TianJing Zhang**. “Dynamic Cross Feature Fusion for Remote Sensing Pansharpening”**_IEEE International Conference on Computer Vision (ICCV 2021)_**. doi: 10.1145/3474085.3475571. [[Project Page will be available](https://github.com/liangjiandeng/MUCNN)][[PDF](https://liangjiandeng.github.io/papers/2021/dfcnet2021.pdf)]<a href="javascript:toggleBibtex('wu_iccv2021')" class="textlink">[BibTeX]</a>
+<div id="bib_wu_iccv2021" class="BibTeX noshow">
+<pre>
+@ARTICLE{wu_iccv2021,
+	author={Wu, Xiao and Huang, Ting-Zhu and Deng, Liang-Jian and Zhang, Tian-Jing},
+	journal={IEEE International Conference on Computer Vision (ICCV)}, 
+	title={Dynamic Cross Feature Fusion for Remote Sensing Pansharpening}, 
 	year={2021},
-	doi={10.1109/TNNLS.2021.3084682}
-   }
-</pre>
-</div>
-* Z.-C. Wu, T.-Z. Huang, L.-J. Deng, **J.-F. Hu**, and G. Vivone. VO+ Net: An Adaptive Approach Using Variational Optimization and Deep Learning for Panchromatic Sharpening. **_IEEE Transactions on Geoscience and Remote Sensing_**, 2021, doi: 10.1109/TGRS.2021.3066425. [[Project page](https://liangjiandeng.github.io/Projects_Res/VOFF_2021tgrs.html)][[PDF](https://liangjiandeng.github.io/papers/2021/VOFF.pdf)]<a href="javascript:toggleBibtex('Wu2021VO')" class="textlink">[BibTeX]</a>
-<div id="bib_Wu2021VO" class="BibTeX noshow">
-<pre>
-@ARTICLE{Wu2021VO,
-	author={Z.-C. Wu and T.-Z. Huang and L.-J. Deng and J.-F. Hu and G. Vivone},
-	journal={IEEE Transactions on Geoscience and Remote Sensing},
-	title={VO+Net: An Adaptive Approach Using Variational Optimization and Deep Learning for Panchromatic Sharpening},
-	year={2021},
-	doi={10.1109/TGRS.2021.3066425}
+	doi={}
    }
 </pre>
 </div>
 
-* Z.-C. Wu, T.-Z. Huang, L.-J. Deng, G. Vivone, J.-Q Miao, **J.-F. Hu**, and X.-L Zhao. A New Variational Approach Based on Proximal Deep Injection and Gradient Intensity Similarity for Spatio-Spectral Image Fusion. **_IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_**, vol. 13, pp. 6277-6290, 2020. [[Project page](https://liangjiandeng.github.io/Projects_Res/DMPIF_2020jstars.html)][[PDF](https://liangjiandeng.github.io/papers/2020/dmpif_2020jstars.pdf)]<a href="javascript:toggleBibtex('Wu')" class="textlink">[BibTeX]</a>
-<div id="bib_Wu" class="BibTeX noshow">
-<pre>
-@ARTICLE{Wu,  
-  title={A new variational approach based on proximal deep injection and gradient intensity similarity for spatio-spectral image fusion},
-   author={Wu, Zhong-Cheng and Huang, Ting-Zhu and Deng, Liang-Jian and Vivone, Gemine and Miao, Jia-Qing and Hu, Jin-Fan and Zhao, Xi-Le},
-   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
-   volume={13},
-   pages={6277--6290},
-   year={2020},
-   publisher={IEEE}
-   }
-</pre>
-</div>
+
+
 
 **Under Review**
+* **Tianjing Zhang**, LiangJian Deng, Ting-Zhu Huang, Gemine Vivone and Jocelyn Chanussot. “Pansharpening via Triple-Double convolutional neural network.” Submitted to **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**.
 
-* **J.-F. Hu**, T.-Z. Huang, L.-J. Deng, T.-X. Jiang, J. Chanussot and G. Vivone. PIRNet: A Progressive Iterative Residual Network for Hyperspectral Image Super-resolution. **_IEEE Transactions on Image Processing_**.
+* **Tianjing Zhang**, LiangJian Deng, ZhongCheng Wu and ChaoChao Zheng “An iterative approach for image fusion with dynamic gradient sparsity and anisotropic spectral-spatial total variation.” Submitted to **_Signal, Image and Video Processing_**.
 
-* **J.-F. Hu**, T.-Z. Huang, L.-J. Deng. Fusformer: A Transformer-based Fusion Approach for Hyperspectral Image Super-resolution. (In preparation) **_IEEE Signal Processing Letters_**.
+* **TianJing Zhang**, ZiRong Jin, LiangJian Deng, and TaiXiang Jiang. “Title unavailable due to Non-disclosure Agreement.” Submitted to **_AAAI Conference on Artificial Intelligence (AAAI 2022)_**.
 
-* R. Ran, L.-J. Deng, T.-X. Jiang, **J.-F Hu**, J. Chanussot and G. Vivone. GuidedNet: A General CNN Fusion Framework via High-resolution Guidance for Hyperspectral Image Super-resolution. **_IEEE Transactions on Cybernetics_**. 
+* **TianJing Zhang**, LiangJian Deng, TingZhu Huang, and BiHan Wen. “Title unavailable due to Non-disclosure Agreement.” Submitted to **_AAAI Conference on Artificial Intelligence (AAAI 2022)_**.
 
-* T. Xu, T.-Z. Huang, L.-J. Deng, X.-L Zhao, and **J.-F. Hu**. Exemplar-based Image Inpainting Using Adaptive Two-Stage Structure-Tensor Based Priority Function and Nonlocal Filtering. **_Journal of Visual Communication and Image Representation_**.
+* Xiao Wu, TingZhu Huang, **TianJing Zhang**, and LiangJian Deng. “Title unavailable due to Non-disclosure Agreement.” Submitted to **_AAAI Conference on Artificial Intelligence (AAAI 2022)_**.
+
+* ZiRong Jin, YuWei Zhuo, **TianJing Zhang**, XiaoXu Jin and LiangJian Deng.“Parallel Full Depth Feature Fusion Network for Pansharpening.”Submitted to **_IEEE Transactions on Geoscience and Remote Sensing_**.
 
 ---
 
 ### Experiences 
 
-* 09/2019-06/2022: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics. (Supervisor: Prof. [Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and Prof. [Liang-Jian Deng](https://liangjiandeng.github.io/))
-
-* 09/2015-06/2019: University of Electronic Science and Technology of China (UESTC); Bachelor student in Information and Computing Science.
+* 09/2018-06/2022: University of Electronic Science and Technology of China (UESTC); Bachelor student in Mathematics and Physics Basic Science.
 
 ---
 
 ### Awards
 
-* Academic Scholarship, UESTC, 2020
+* National Scholarship, 2020
 
-* National First Prize of [CUMCM](http://www.mcm.edu.cn/), UESTC, 2017
+* Outstanding Students’ Scholarship of UESTC, 2019 and 2020
 
-* People Scholarship, UESTC, 2017 and 2018
+* Excellent class member of UESTC, 2019 and 2020
+
+* Honorable Mention, _Mathematical Contest In Modeling_, 2020
+
+* First Prize in Sichuan Province, _China Undergraduate Mathematical Contest in Modeling_, 2020
+
+* Third prize, _Southwest Hackathon Coding Contest_, 2020
+
+* Third prize, _Innovation Creavitivity Entrepreneurship” Competition_, 2021
+
+* Yunhui Award Special Finalist, _College Student Innovation and Entrepreneurship Program in UESTC_, 2021
+
+
+
 
 ---
 
 ### Academic Activities
 
-Peer-Reviewer: IEEE Transactions on Geoscience and Remote Sensing
+Peer-Reviewer: IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
+
+Peer-Reviewer:  IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)
+
+Video Presentation: Record video report on ACM Multimedia 2021
+
 
 ---
 
