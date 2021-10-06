@@ -102,7 +102,7 @@ pages={DOI: 10.1145/3474085.3475571},
 
 
 **Under Review**
-* **Tianjing Zhang**, LiangJian Deng, Ting-Zhu Huang, Gemine Vivone and Jocelyn Chanussot. “Pansharpening via Triple-Double convolutional neural network.” Submitted to **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**.
+* **Tianjing Zhang**, LiangJian Deng, Ting-Zhu Huang, Gemine Vivone and Jocelyn Chanussot. “Pansharpening via Triple-Double convolutional neural network.” Submitted to **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**.
 
 * **Tianjing Zhang**, LiangJian Deng, ZhongCheng Wu and ChaoChao Zheng “An iterative approach for image fusion with dynamic gradient sparsity and anisotropic spectral-spatial total variation.” Submitted to **_Signal, Image and Video Processing_**.
 
