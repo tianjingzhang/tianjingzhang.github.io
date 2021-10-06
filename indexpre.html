@@ -1,165 +1,166 @@
+---
+layout: page
+title: Tian-Jing Zhang
+comments: true
+permalink: /homepage/
+---
+
+<style>
+.biblist { }
+
+/* The item */
+.biblist li { }
+
+/* You can define custom styles for plstyle field here. */
 
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+/*************************************
+   The box that contain BibTeX code
+ *************************************/
+div.noshow { display: none; }
+div.BibTeX {
+  margin-right: 1%;
+  margin-left: 3%;
+  margin-top: 1.2em;
+  margin-bottom: 1.3em;
+  border: 1px solid silver;
+  padding: 0.3em 0.5em;
+  background: #eeeeee;
+}
+div.BibTeX pre { font-size: 85%; overflow: auto;  width: 100%; }
+</style>
 
-<head>
-<title>Tian-Jing Zhang | UESTC</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="keywords" content="Tian-Jing Zhang, 张添敬, UESTC"> 
-<meta name="description" content="Tian-Jing's home page">
-<link rel="stylesheet" href="style.css" type="text/css" media="screen">
-
-<link rel="shortcut icon" href="Imgs/miv.png">
-
-<script type="text/javascript">
-onload = function(){
-    document.getElementById("lastModified").innerHTML = "Last update: " + document.lastModified.split(" ")[0];
+<script>
+function toggleBibtex(articleid) {
+  var bib = document.getElementById('bib_'+articleid);
+  if (bib) {
+    if(bib.className.indexOf('BibTeX') != -1) {
+    bib.className.indexOf('noshow') == -1?bib.className = 'BibTeX noshow':bib.className = 'BibTeX';
+    }
+  } else {
+    return;
+  }
 }
 </script>
-</head>
+
 
 
 	
-<body leftmargin="40" text="#444444" link="#444444" bgcolor="#FFFFFF">
-    <table id="table1" width="920" border="0">
-      <tbody>
-        <tr>
-          <td width="223">
-            <p align="left"><font face="Arial"><img src="tjZhang.jpg" height="213"
-                  border="0"></font></p>
-          </td>
-          <td> <b><font style="font-size: 24pt;" face="Arial">&nbsp;&nbsp;Tian-Jing Zhang&nbsp;</font> <span
-                  lang="zh-cn"><font style="font-size: 27pt;" face="楷体">(张添敬)</span></b></font>
-            <p> <font style="font-size: 13pt;" face="Arial">&nbsp;&nbsp;&nbsp;
-                </font> </p>
-            <p> <font style="font-size: 13pt;" face="Arial">&nbsp;&nbsp;&nbsp;
-                University of Electronic Science and Technology of China</font> </p>
-            <p> <font style="font-size: 13pt;" face="Arial">&nbsp;&nbsp;&nbsp;
-                Email: zhangtianjinguestc@163.com</font> </p>
-	    <p> <font style="font-size: 13pt;" face="Arial">&nbsp;&nbsp;&nbsp;
-                Contact Information: UESTC (Qingshuihe Campus), Chengdu, Sichuan, China</font> </p>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-</body>
+### Biography
+ 
+| <br>**Tian-Jing Zhang （张添敬）** is a senior student majoring in Mathematics and Physics Basic Science in <a href="https://www.yingcai.uestc.edu.cn/" style="color: blue">Yingcai Honors College (英才实验学院)</a>, <a href="https://www.uestc.edu.cn/" style="color: blue">UESTC (电子科技大学)</a>, supervised by <a href="https://liangjiandeng.github.io/" style="color: blue"> Prof. Liang-Jian Deng</a>. I'm broadly interested in computer vision and deep learning. My current research focuses on remote sensing pansharpening, image fusion and deep learning. I will pursue my Ph.D. degree in <a href="https://www.math.nus.edu.sg/" style="color: blue">Department of Mathematics</a>, National University of Singapore (NUS) . </p>
+ <br> <br> **Email：** <zhangtianjinguestc@163.com> &emsp; <br><br>| &emsp;![image](https://github.com/tianjingzhang/tianjingzhang.github.io/blob/main/tjZhang.jpg)&emsp; |
 
-<div id="wrapperindex">
-<div id="container">
-  <div id="about">
-<font style="font-size: 14pt;" face="Arial">
-<p>I'm a junior student majoring in Mathematics and Physics Basic Science in <a href="https://www.yingcai.uestc.edu.cn/" style="color: blue">Yingcai Honors College (英才实验学院)</a>, <a href="https://www.uestc.edu.cn/" style="color: blue">UESTC (电子科技大学)</a>, supervised by <a href="https://liangjiandeng.github.io/" style="color: blue"> Prof. Liang-Jian Deng</a>. I'm broadly interested in computer vision and deep learning. My current research focuses on remote sensing pansharpening, image fusion and deep learning. Currently I am pursuing my MS degree.</p>
 
-  </div> 
- </div>
+
+### Publications
+
+**Accepted**
+* ZiRong Jin, **TianJing Zhang**, Cheng Jin and LiangJian Deng. “Weighted shallow-deep feature fusion network for pansharpening.” **_2021 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2021)_**
+</div>
+* ShiShi Xiao, Cheng Jin, TianJing Zhang, Ran Ran and LiangJian Deng. “Progressice band- convolutional neural network for pansharpening.” **_2021 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2021)_**
+</div>
+* YuDong Wang, LiangJian Deng, and **TianJing Zhang**.“SSconv: Explicit Spectral-to-Spatial Convolution for Pansharpening.” **_2021 ACM International Conference on Multimedia (ACM MM 2021)_**. doi: 10.1145/3474085.3475600. [[Project Page](https://github.com/liangjiandeng/MUCNN)][[PDF](https://liangjiandeng.github.io/papers/2021/mucnn_mm2021/mucnn_mm2021.pdf)]<a href="javascript:toggleBibtex('mucnn')" class="textlink">[BibTeX]</a>
+<div id="bib_mucnn" class="BibTeX noshow">
+<pre>
+@ARTICLE{mucnn,
+author={Yudong Wang, Liang-Jian Deng, Tian-Jing Zhang, Xiao Wu},
+booktitle={Proceedings of the 29th ACM International Conference on Multimedia (ACM MM)},
+title={SSconv: Explicit Spectral-to-Spatial Convolution for Pansharpening},
+year={2021},
+pages={DOI: 10.1145/3474085.3475600.},
+}
+</pre>
+</div>
+* ZiRong Jin, LiangJian Deng, **TianJing Zhang** and XiaoXu Jin.“BAM: Bilateral Activation Mechanism for Image Fusion.”**_2021 ACM International Conference on Multimedia (ACM MM 2021)_**. doi: 10.1145/3474085.3475571. [[Project Page](https://liangjiandeng.github.io/Projects_Res/bam_mm2021.html)][[PDF](https://liangjiandeng.github.io/papers/2021/bam_mm2021.pdf)]<a href="javascript:toggleBibtex('BAM')" class="textlink">[BibTeX]</a>
+<div id="bib_BAM" class="BibTeX noshow">
+<pre>
+@ARTICLE{BAM,
+author={Zi-Rong Jin , Liang-Jian Deng, Tian-Jing Zhang, Xiaoxu Jin},
+journal={Proceedings of the 29th ACM International Conference on Multimedia (ACM MM)},
+title={BAM: Bilateral Activation Mechanism for Image Fusion},
+year={2021},
+volume={},
+number={},
+pages={DOI: 10.1145/3474085.3475571},
+}
+</pre>
+</div>
+* Wu Xiao, TingZhu Huang, LiangJian Deng and **TianJing Zhang**. “Dynamic Cross Feature Fusion for Remote Sensing Pansharpening”**_IEEE International Conference on Computer Vision (ICCV 2021)_**. doi: 10.1145/3474085.3475571. [[Project Page will be available](https://github.com/liangjiandeng/MUCNN)][[PDF](https://liangjiandeng.github.io/papers/2021/dfcnet2021.pdf)]<a href="javascript:toggleBibtex('wu_iccv2021')" class="textlink">[BibTeX]</a>
+<div id="bib_wu_iccv2021" class="BibTeX noshow">
+<pre>
+@ARTICLE{wu_iccv2021,
+	author={Wu, Xiao and Huang, Ting-Zhu and Deng, Liang-Jian and Zhang, Tian-Jing},
+	journal={IEEE International Conference on Computer Vision (ICCV)}, 
+	title={Dynamic Cross Feature Fusion for Remote Sensing Pansharpening}, 
+	year={2021},
+	doi={}
+   }
+</pre>
 </div>
 
-	
-<div id="container">
-<div id ="mainbody">
-<a  name="publication">&nbsp; </a>
-<h2>Publications:</h2>
 
-<!-- <p> <span class="style8"><strong><font face="Arial">More papers info., please visit: <a
-              href="https://scholar.google.com/citations?hl=zh-CN&user=TZs9NxkAAAAJ&view_op=list_works&gmla=AJsN-F50GQ7PBpZEUoU_2mbA3frbCznsiwOapfLX_hpZmX5extjIbjOsb3G7B7gjGc8D1J-tjMstCMsbMdRjRquxiCI59gjaRNepJF1QGgILEtwf_oEzb-W3KFlpsm8Q7Ezn6G8yAPmK"><font color="#808080">Google Scholar Profile </font></a><font color="#808080">(300+ citations)</font><br>
-          </font></strong></span> </p> -->
-<br>
-	
-1. <b>Tian-Jing Zhang</b>, Liang-Jian Deng, Ting-Zhu Huang, Gemine Vivone and Jocelyn Chanussot. <em>Pansharpening via Triple-Double convolutional neural network</em>. Submitted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS).(Major Revision)
-<br>
-<br>	
-2. <b>Tian-Jing Zhang</b>, Liang-Jian Deng, Zhong-Cheng Wu and Chao-Chao Zheng <em>An Iterative Approach for Image Fusion with Dynamic Gradient Sparsity and Anisotropic Spectral-Spatial Total Variation</em>. Submitted to Signal, Image and Video Processing. (Major Revision)
-<br>
-<br>
-3. Zi-Rong Jin, <b>Tian-Jing Zhang</b>, Cheng Jin and Liang-Jian Deng. <em>Weighted Shallow-deep Feature Fusion Network for Pansharpening</em>. In 2021 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2021). (Accepted)
-<br>
-<br>
-4. Shi-Shi Xiao, Cheng Jin, <b>Tian-Jing Zhang</b>, Ran Ran and Liang-Jian Deng. <em>Progressice Band-convolutional Neural Network for Pansharpening</em>. In IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2021). (Accepted)
-<br>
-<br>
-5. <b>Tian-Jing Zhang</b> and Liang-Jian Deng.<em>Dual-Stream K-Graph Convolutional Network for Image Fusion</em>.(Preparing)
-<br>
-<br>
-6. Zi-Rong Jin, <b>Tian-Jing Zhang</b> and Yu-Wei Zhuo.<em>Parallel Full Depth Feature Fusion Network for Pansharpening</em>. (Preparing as Corresponding Author)
-<br>
-<br>
-7.Yu-Dong Wang, Liang-Jian Deng, and <b>Tian-Jing Zhang</b>.<em>SSconv: Explicit Spectral-to-Spatial Convolution for
-Pansharpening</em>. In 2021 ACM International Conference on Multimedia (ACM MM 2021). (Accepted)
-<br>
-<br>
-8.Zi-Rong Jin, Liang-Jian Deng, <b>Tian-Jing Zhang</b> and Xiao-Xu Jin.<em>BAM: Bilateral Activation Mechanism for Image Fusion</em>. In ACM MM 2021.(Accepted)
-<br>
-<br>
-9.Wu Xiao, Ting-Zhu Huang, Liang-Jian Deng and <b>Tian-Jing Zhang</b>. <em>Title unavailable due to Non-disclosure Agreement</em>. Submitted to 2021 IEEE International Conference on Computer Vision (ICCV 2021). 
-<br>
-<br>
-10. Zi-Rong Jin, Liang-Jian Deng, Tai-Xiang Jiang, <b>Tian-Jing Zhang</b> and Renwei Dian.<em>Title unavailable due to Non-disclosure Agreement</em>. Submitted to ICCV 2021.
-<br>
-<br>
+
+
+**Under Review**
+* **Tianjing Zhang**, LiangJian Deng, Ting-Zhu Huang, Gemine Vivone and Jocelyn Chanussot. “Pansharpening via Triple-Double convolutional neural network.” Submitted to **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**.
+
+* **Tianjing Zhang**, LiangJian Deng, ZhongCheng Wu and ChaoChao Zheng “An iterative approach for image fusion with dynamic gradient sparsity and anisotropic spectral-spatial total variation.” Submitted to **_Signal, Image and Video Processing_**.
+
+* **TianJing Zhang**, ZiRong Jin, LiangJian Deng, and TaiXiang Jiang. “Title unavailable due to Non-disclosure Agreement.” Submitted to **_AAAI Conference on Artificial Intelligence (AAAI 2022)_**.
+
+* **TianJing Zhang**, LiangJian Deng, TingZhu Huang, and BiHan Wen. “Title unavailable due to Non-disclosure Agreement.” Submitted to **_AAAI Conference on Artificial Intelligence (AAAI 2022)_**.
+
+* Xiao Wu, TingZhu Huang, **TianJing Zhang**, and LiangJian Deng. “Title unavailable due to Non-disclosure Agreement.” Submitted to **_AAAI Conference on Artificial Intelligence (AAAI 2022)_**.
+
+* ZiRong Jin, YuWei Zhuo, **TianJing Zhang**, XiaoXu Jin and LiangJian Deng.“Parallel Full Depth Feature Fusion Network for Pansharpening.”Submitted to **_IEEE Transactions on Geoscience and Remote Sensing_**.
+
+---
+
+### Experiences 
+
+* 09/2018-06/2022: University of Electronic Science and Technology of China (UESTC); Bachelor student in Mathematics and Physics Basic Science.
+
+---
+
+### Awards
+
+* National Scholarship, 2020
+
+* Outstanding Students’ Scholarship of UESTC, 2019 and 2020
+
+* Excellent class member of UESTC, 2019 and 2020
+
+* Honorable Mention, _Mathematical Contest In Modeling_, 2020
+
+* First Prize in Sichuan Province, _China Undergraduate Mathematical Contest in Modeling_, 2020
+
+* Third prize, _Southwest Hackathon Coding Contest_, 2020
+
+* Third prize, _Innovation Creavitivity Entrepreneurship” Competition_, 2021
+
+* Yunhui Award Special Finalist, _College Student Innovation and Entrepreneurship Program in UESTC_, 2021
+
+
+
+
+---
+
+### Academic Activities
+
+Peer-Reviewer: IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
+
+Peer-Reviewer:  IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)
+
+Video Presentation: Record video report on ACM Multimedia 2021
+
+
+---
 
 For more information, please refer to <a href="cv.pdf" style="color: blue">my resumé</a>.
-	
 
-<!-- <table border=0 cellpadding=0 width=100% cellspacing="10" style="line-height:18pt;  border-spacing: 60 6px;">-->
-
-	
-	
-<!--<div style="color: steelblue; font-family:Arial; margin-left:7px; font-size:20px"><strong>2019</strong></div>-->
-
-<!--
-	
-<table class="imgtable"><tr><td>
-<img src="papers/2021/06-logo_HSRnet.png" alt="" width="250px" /> </td>
-<td align="left"><p>
-<ul>
-<li><em><font size="4" face="Arial">Hyperspectral Image Super-resolution via Deep Spatio-spectral Attention Convolutional Neural Networks</font></em><br> 
-<font size="2" face="Arial">Jin-Fan Hu, Ting-Zhu Huang*, <b>Liang-Jian Deng*</b>, Tai-Xiang Jiang, Gemine Vivone, Jocelyn  Chanussot<br> 
-<strong>IEEE Transactions on Neural Networks and Learning  Systems </strong>, 2021. <br>
-<a href="papers/2021/HSRnet_tnnls_2021.pdf" style="color: blue">[pdf]</a>
-&nbsp;<a href="Projects_Res/HSRnet_2021tnnls.html" style="color: blue"><b>[Project Page]</b></a><br>
-</font></li>
-</ul>
-</td></tr></table>
- </table>
-
--->
- 
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=573geowbknl&amp;m=7&amp;c=ffc000&amp;cr1=ffffff&amp;f=arial&amp;l=1&amp;s=170&amp;bv=70" async="async"></script>
 
 
-<!-- <a  name="Reviewer">&nbsp; </a>
-<h2>Academic Activities:</h2>
-<ul>
-<h3>Peer-Reviewer:</h3>
-&nbsp;&nbsp;&nbsp;IEEE TIP, IEEE TGRS, IEEE TCSVT, IEEE JSTARS, IEEE TCyber., IEEE GRSL</br>
-&nbsp;&nbsp;&nbsp;ISPRS Journal of Photogrammetry and Remote Sensing, Journal of Mathematical Imaging and Vision, etc.<br>
-</ul> -->
 
 
-<!--<td align="center">
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=q42AWpXg8o1ihfMjBGE2spzYkI7CTpIm16KpWAUdnT0&cl=ffffff&w=a"></script></td>
-</td>-->
-
-	
-	
-<!--<p style="text-align: center"> <a href="https://clustrmaps.com/site/1azln"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=q42AWpXg8o1ihfMjBGE2spzYkI7CTpIm16KpWAUdnT0&cl=ffffff" /></a></p>-->
-
-<!--<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=280&t=tt&d=q42AWpXg8o1ihfMjBGE2spzYkI7CTpIm16KpWAUdnT0'></script> -->
-	
-	
-	
-	<!-- <td align="center">
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=tt&d=Jc9TRRgA4nyUnl7vLoPBIpT_tthMumbFlutALhI6d70&co=3888ff'></script>
-</td> -->
-
-<p class="auto-style7"  align="center"><font size="4" face="Arial">
-<span id="lastModified"></span></font></p> 
-
-  
-</div>
-</div>
-</div>
-
-</body>
-
-</html>
