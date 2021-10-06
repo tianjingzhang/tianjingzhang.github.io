@@ -48,7 +48,7 @@ function toggleBibtex(articleid) {
 	
 ### Biography
  
-| <br>**Tian-Jing Zhang （张添敬）** is a senior student majoring in Mathematics and Physics Basic Science in <a href="https://www.yingcai.uestc.edu.cn/" >Yingcai Honors College (英才实验学院)</a>, <a href="https://www.uestc.edu.cn/">UESTC (电子科技大学)</a>, supervised by <a href="https://liangjiandeng.github.io/" > Prof. Liang-Jian Deng</a>. I'm broadly interested in computer vision and deep learning. My current research focuses on remote sensing pansharpening, image fusion and deep learning. I will pursue my Ph.D. degree in <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a>, National University of Singapore (NUS).  <br> <br> **Email：** <zhangtianjinguestc@163.com> <br><br>|  ![image](https://tianjingzhang.github.io/images/1.png)&emsp; |
+| <br>**Tian-Jing Zhang （张添敬）** is a senior student majoring in Mathematics and Physics Basic Science in [Yingcai Honors College (英才实验学院)](https://www.yingcai.uestc.edu.cn/), <a href="https://www.uestc.edu.cn/">UESTC (电子科技大学)</a>, supervised by <a href="https://liangjiandeng.github.io/" > Prof. Liang-Jian Deng</a>. I'm broadly interested in computer vision and deep learning. My current research focuses on remote sensing pansharpening, image fusion and deep learning. I will pursue my Ph.D. degree in <a href="https://www.math.nus.edu.sg/">Department of Mathematics</a>, National University of Singapore (NUS).  <br> <br> **Email：** <zhangtianjinguestc@163.com> <br><br>|  ![image](https://tianjingzhang.github.io/images/1.png); |
 
 
 
@@ -156,7 +156,7 @@ Video Presentation: Record video report on ACM Multimedia 2021
 
 ---
 
-For more information, please refer to <a href="cv.pdf" style="color: blue">my resumé</a>.
+For more information, please refer to <a href="cv.pdf">my resumé</a>.
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=573geowbknl&amp;m=7&amp;c=ffc000&amp;cr1=ffffff&amp;f=arial&amp;l=1&amp;s=170&amp;bv=70" async="async"></script>
 
