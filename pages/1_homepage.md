@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jin-Fan Hu
+title: Tian-Jing Zhang
 comments: true
 permalink: /homepage/
 ---
@@ -48,7 +48,8 @@ function toggleBibtex(articleid) {
 	
 ### Biography
  
-| <br>**Jin-Fan Hu （胡锦帆）** is currently pursuing the M.S. degree in mathematics (supervised by Prof. [Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and Prof. [Liang-Jian Deng](https://liangjiandeng.github.io/)) with the [School of Mathematical Sciences](https://www.math.uestc.edu.cn/), University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)), Chengdu, China. His research interests include image processing and deep learning. <br> <br> **Email：** <hujf0206@163.com> &emsp; **Github：** <https://github.com/J-FHu> <br><br>| &emsp;![image](https://J-FHu.github.io/images/Hu_small.jpg)&emsp; |
+| <br>**Tian-Jing Zhang （张添敬）** is a senior student majoring in Mathematics and Physics Basic Science in <a href="https://www.yingcai.uestc.edu.cn/" style="color: blue">Yingcai Honors College (英才实验学院)</a>, <a href="https://www.uestc.edu.cn/" style="color: blue">UESTC (电子科技大学)</a>, supervised by <a href="https://liangjiandeng.github.io/" style="color: blue"> Prof. Liang-Jian Deng</a>. I'm broadly interested in computer vision and deep learning. My current research focuses on remote sensing pansharpening, image fusion and deep learning. I will pursue my Ph.D. degree in <a href="https://www.math.nus.edu.sg/" style="color: blue">Department of Mathematics</a>, National University of Singapore (NUS) . </p>
+ <br> <br> **Email：** <zhangtianjinguestc@163.com> &emsp; 
 
 
 
