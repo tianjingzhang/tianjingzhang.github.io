@@ -57,7 +57,7 @@ function toggleBibtex(articleid) {
 **Accepted**
 * ZiRong Jin, **TianJing Zhang**, Cheng Jin and LiangJian Deng. “Weighted shallow-deep feature fusion network for pansharpening.” **_2021 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2021)_**
 
-* ShiShi Xiao, Cheng Jin, TianJing Zhang, Ran Ran and LiangJian Deng. “Progressice band- convolutional neural network for pansharpening.” **_2021 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2021)_**
+* ShiShi Xiao, Cheng Jin, **TianJing Zhang**, Ran Ran and LiangJian Deng. “Progressice band- convolutional neural network for pansharpening.” **_2021 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2021)_**
 
 * YuDong Wang, LiangJian Deng, and **TianJing Zhang**.“SSconv: Explicit Spectral-to-Spatial Convolution for Pansharpening.” **_2021 ACM International Conference on Multimedia (ACM MM 2021)_**. doi: 10.1145/3474085.3475600. [[Project Page](https://github.com/liangjiandeng/MUCNN)][[PDF](https://liangjiandeng.github.io/papers/2021/mucnn_mm2021/mucnn_mm2021.pdf)]<a href="javascript:toggleBibtex('mucnn')" class="textlink">[BibTeX]</a>
 <div id="bib_mucnn" class="BibTeX noshow">
