@@ -124,9 +124,9 @@ pages={DOI: 10.1145/3474085.3475571},
 
 ### Awards
 
-* National Scholarship, 2020
+* National Scholarship, 2020 and 2021
 
-* Outstanding Students’ Scholarship of UESTC, 2019 and 2020
+* Outstanding Students’ Scholarship of UESTC, 2019, 2020 and 2021
 
 * Excellent class member of UESTC, 2019 and 2020
 
