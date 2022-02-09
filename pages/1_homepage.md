@@ -55,6 +55,15 @@ function toggleBibtex(articleid) {
 ### Publications
 
 **Accepted**
+* **Tianjing Zhang**, LiangJian Deng, Ting-Zhu Huang, Gemine Vivone and Jocelyn Chanussot. “Pansharpening via Triple-Double convolutional neural network.”  **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**.
+
+* **Tianjing Zhang**, LiangJian Deng, ZhongCheng Wu and ChaoChao Zheng “An iterative approach for image fusion with dynamic gradient sparsity and anisotropic spectral-spatial total variation.”  **_Signal, Image and Video Processing_**.
+
+
+* **TianJing Zhang**, ZiRong Jin, LiangJian Deng, and TaiXiang Jiang. “LAGConv: Local-Context Adaptive Convolution Kernels with Global Harmonic Bias for Pansharpening.”  **_AAAI Conference on Artificial Intelligence (AAAI 2022)_**.
+
+* ZiRong Jin, YuWei Zhuo, **TianJing Zhang**, XiaoXu Jin and LiangJian Deng.“Parallel Full Depth Feature Fusion Network for Pansharpening.” **_IEEE Transactions on Geoscience and Remote Sensing_**.
+
 * ZiRong Jin, **TianJing Zhang**, Cheng Jin and LiangJian Deng. “Weighted shallow-deep feature fusion network for pansharpening.” **_2021 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2021)_**
 
 * ShiShi Xiao, Cheng Jin, **TianJing Zhang**, Ran Ran and LiangJian Deng. “Progressice band- convolutional neural network for pansharpening.” **_2021 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2021)_**
@@ -101,18 +110,14 @@ pages={DOI: 10.1145/3474085.3475571},
 
 
 
-**Under Review**
-* **Tianjing Zhang**, LiangJian Deng, Ting-Zhu Huang, Gemine Vivone and Jocelyn Chanussot. “Pansharpening via Triple-Double convolutional neural network.” Submitted to **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**.
+<!-- **Under Review**
 
-* **Tianjing Zhang**, LiangJian Deng, ZhongCheng Wu and ChaoChao Zheng “An iterative approach for image fusion with dynamic gradient sparsity and anisotropic spectral-spatial total variation.” Submitted to **_Signal, Image and Video Processing_**.
 
-* **TianJing Zhang**, ZiRong Jin, LiangJian Deng, and TaiXiang Jiang. “Title unavailable due to Non-disclosure Agreement.” Submitted to **_AAAI Conference on Artificial Intelligence (AAAI 2022)_**.
 
 * **TianJing Zhang**, LiangJian Deng, TingZhu Huang, and BiHan Wen. “Title unavailable due to Non-disclosure Agreement.” Submitted to **_AAAI Conference on Artificial Intelligence (AAAI 2022)_**.
 
-* Xiao Wu, TingZhu Huang, **TianJing Zhang**, and LiangJian Deng. “Title unavailable due to Non-disclosure Agreement.” Submitted to **_AAAI Conference on Artificial Intelligence (AAAI 2022)_**.
+* Xiao Wu, TingZhu Huang, **TianJing Zhang**, and LiangJian Deng. “Title unavailable due to Non-disclosure Agreement.” Submitted to **_AAAI Conference on Artificial Intelligence (AAAI 2022)_**. -->
 
-* ZiRong Jin, YuWei Zhuo, **TianJing Zhang**, XiaoXu Jin and LiangJian Deng.“Parallel Full Depth Feature Fusion Network for Pansharpening.”Submitted to **_IEEE Transactions on Geoscience and Remote Sensing_**.
 
 ---
 
