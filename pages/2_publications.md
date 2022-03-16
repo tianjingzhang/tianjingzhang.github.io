@@ -52,8 +52,8 @@ function toggleBibtex(articleid) {
 
 **Accepted**
 
-* **Tianjing Zhang**, LiangJian Deng, Ting-Zhu Huang, Gemine Vivone and Jocelyn Chanussot. “Pansharpening via Triple-Double convolutional neural network.”  **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**.[[Project Page](https://liangjiandeng.github.io/index.html)][[PDF](https://liangjiandeng.github.io/papers/2022/zhang-tnnls2022.pdf)]<a href="javascript:toggleBibtex('mucnn')" class="textlink">[BibTeX]</a>
-<div id="aaai" class="BibTeX noshow">
+* **Tianjing Zhang**, LiangJian Deng, Ting-Zhu Huang, Gemine Vivone and Jocelyn Chanussot. “Pansharpening via Triple-Double convolutional neural network.”  **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**.[[Project Page](https://liangjiandeng.github.io/index.html)][[PDF](https://liangjiandeng.github.io/papers/2022/zhang-tnnls2022.pdf)]<a href="javascript:toggleBibtex('zhangtnnls2022')" class="textlink">[BibTeX]</a>
+<div id="bib_zhangtnnls2022" class="BibTeX noshow">
 <pre>
 @ARTICLE{zhangtnnls2022,
 	author={T.-J. Zhang, L.-J. Deng, T.-Z. Huang, J. Chanussot, and G. Vivone},
@@ -72,7 +72,7 @@ function toggleBibtex(articleid) {
 
 
 * ZiRong Jin#,  **TianJing Zhang#**, LiangJian Deng, and TaiXiang Jiang. “LAGConv: Local-Context Adaptive Convolution Kernels with Global Harmonic Bias for Pansharpening.”  **_AAAI Conference on Artificial Intelligence (AAAI 2022)_**. (#: equal contribution)[[Project Page](https://github.com/liangjiandeng/TDNet)][[PDF](https://liangjiandeng.github.io/papers/2022/jin-aaai2022.pdf)]<a href="javascript:toggleBibtex('jinif2021')" class="textlink">[BibTeX]</a>
-<div id="jinif2021" class="BibTeX noshow">
+<div id="bib_jinif2021" class="BibTeX noshow">
 <pre>
 @ARTICLE{jinif2021,
 	author={Jin, Zi-Rong and Zhang, Tian-Jing and Jiang, Tai-Xiang and Vivone, Gemine and Deng, Liang-Jian},
