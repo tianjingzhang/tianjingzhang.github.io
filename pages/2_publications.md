@@ -34,7 +34,7 @@ div.BibTeX {
   padding: 0.3em 0.5em;
   background: #eeeeee;
 }
-div.BibTeX pre { font-size: 85%; overflow: auto;  width: 100%; }
+div.BibTeX pre { font-size: 100%; overflow: auto;  width: 100%; }
 </style>
 
 <script>
