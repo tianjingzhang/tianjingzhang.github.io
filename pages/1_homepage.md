@@ -27,7 +27,7 @@ div.BibTeX {
   padding: 0.3em 0.5em;
   background: #eeeeee;
 }
-div.BibTeX pre { font-size: 85%; overflow: auto;  width: 100%; }
+div.BibTeX pre { font-size: 100%; overflow: auto;  width: 100%; }
 </style>
 
 <script>
@@ -54,9 +54,8 @@ function toggleBibtex(articleid) {
 
 ### Publications
 
-**Accepted**
-* **Tianjing Zhang**, LiangJian Deng, Ting-Zhu Huang, Gemine Vivone and Jocelyn Chanussot. “Pansharpening via Triple-Double convolutional neural network.”  **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**.[[Project Page](https://liangjiandeng.github.io/index.html)][[PDF](https://liangjiandeng.github.io/papers/2022/zhang-tnnls2022.pdf)]<a href="javascript:toggleBibtex('mucnn')" class="textlink">[BibTeX]</a>
-<div id="aaai" class="BibTeX noshow">
+* **Tianjing Zhang**, LiangJian Deng, Ting-Zhu Huang, Gemine Vivone and Jocelyn Chanussot. “Pansharpening via Triple-Double convolutional neural network.”  **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**.[[Project Page](https://liangjiandeng.github.io/index.html)][[PDF](https://liangjiandeng.github.io/papers/2022/zhang-tnnls2022.pdf)]<a href="javascript:toggleBibtex('zhangtnnls2022')" class="textlink">[BibTeX]</a>
+<div id="bib_zhangtnnls2022" class="BibTeX noshow">
 <pre>
 @ARTICLE{zhangtnnls2022,
 	author={T.-J. Zhang, L.-J. Deng, T.-Z. Huang, J. Chanussot, and G. Vivone},
@@ -75,7 +74,7 @@ function toggleBibtex(articleid) {
 
 
 * ZiRong Jin#,  **TianJing Zhang#**, LiangJian Deng, and TaiXiang Jiang. “LAGConv: Local-Context Adaptive Convolution Kernels with Global Harmonic Bias for Pansharpening.”  **_AAAI Conference on Artificial Intelligence (AAAI 2022)_**. (#: equal contribution)[[Project Page](https://github.com/liangjiandeng/TDNet)][[PDF](https://liangjiandeng.github.io/papers/2022/jin-aaai2022.pdf)]<a href="javascript:toggleBibtex('jinif2021')" class="textlink">[BibTeX]</a>
-<div id="jinif2021" class="BibTeX noshow">
+<div id="bib_jinif2021" class="BibTeX noshow">
 <pre>
 @ARTICLE{jinif2021,
 	author={Jin, Zi-Rong and Zhang, Tian-Jing and Jiang, Tai-Xiang and Vivone, Gemine and Deng, Liang-Jian},
@@ -136,17 +135,6 @@ pages={DOI: 10.1145/3474085.3475571},
 </div>
 
 
-
-
-<!-- **Under Review**
-
-
-
-* **TianJing Zhang**, LiangJian Deng, TingZhu Huang, and BiHan Wen. “Title unavailable due to Non-disclosure Agreement.” Submitted to **_AAAI Conference on Artificial Intelligence (AAAI 2022)_**.
-
-* Xiao Wu, TingZhu Huang, **TianJing Zhang**, and LiangJian Deng. “Title unavailable due to Non-disclosure Agreement.” Submitted to **_AAAI Conference on Artificial Intelligence (AAAI 2022)_**. -->
-
-
 ---
 
 ### Experiences 
@@ -161,6 +149,10 @@ pages={DOI: 10.1145/3474085.3475571},
 
 * Outstanding Students’ Scholarship of UESTC, 2019, 2020 and 2021
 
+* First Prize, _Huawei Scholarship_, 2021
+
+* First Prize, _Yunhui Award Special College Student Innovation and Entrepreneurship Program in UESTC_, 2021
+
 * Excellent class member of UESTC, 2019 and 2020
 
 * Honorable Mention, _Mathematical Contest In Modeling_, 2020
@@ -171,7 +163,6 @@ pages={DOI: 10.1145/3474085.3475571},
 
 * Third prize, _Innovation Creavitivity Entrepreneurship” Competition_, 2021
 
-* Yunhui Award Special Finalist, _College Student Innovation and Entrepreneurship Program in UESTC_, 2021
 
 
 
@@ -183,6 +174,8 @@ pages={DOI: 10.1145/3474085.3475571},
 Peer-Reviewer: IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
 
 Peer-Reviewer:  IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)
+
+Video Presentation: Record video report on AAAI 2022
 
 Video Presentation: Record video report on ACM Multimedia 2021
 
