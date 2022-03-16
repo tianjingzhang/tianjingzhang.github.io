@@ -55,12 +55,40 @@ function toggleBibtex(articleid) {
 ### Publications
 
 **Accepted**
-* **Tianjing Zhang**, LiangJian Deng, Ting-Zhu Huang, Gemine Vivone and Jocelyn Chanussot. “Pansharpening via Triple-Double convolutional neural network.”  **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**.
+* **Tianjing Zhang**, LiangJian Deng, Ting-Zhu Huang, Gemine Vivone and Jocelyn Chanussot. “Pansharpening via Triple-Double convolutional neural network.”  **_IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_**.[[Project Page](https://liangjiandeng.github.io/index.html)][[PDF](https://liangjiandeng.github.io/papers/2022/zhang-tnnls2022.pdf)]<a href="javascript:toggleBibtex('mucnn')" class="textlink">[BibTeX]</a>
+<div id="aaai" class="BibTeX noshow">
+<pre>
+@ARTICLE{zhangtnnls2022,
+	author={T.-J. Zhang, L.-J. Deng, T.-Z. Huang, J. Chanussot, and G. Vivone},
+	journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+	title={A Triple-Double Convolutional Neural Network for Panchromatic Sharpening}, 
+	year={2022},
+	volume={},
+	number={},
+	pages={},
+	doi={10.1109/TNNLS.2022.3155655}
+   }
+</pre>
+</div>
 
 * **Tianjing Zhang**, LiangJian Deng, ZhongCheng Wu and ChaoChao Zheng “An iterative approach for image fusion with dynamic gradient sparsity and anisotropic spectral-spatial total variation.”  **_Signal, Image and Video Processing_**.
 
 
-* **TianJing Zhang**, ZiRong Jin, LiangJian Deng, and TaiXiang Jiang. “LAGConv: Local-Context Adaptive Convolution Kernels with Global Harmonic Bias for Pansharpening.”  **_AAAI Conference on Artificial Intelligence (AAAI 2022)_**.
+* ZiRong Jin#,  **TianJing Zhang#**, LiangJian Deng, and TaiXiang Jiang. “LAGConv: Local-Context Adaptive Convolution Kernels with Global Harmonic Bias for Pansharpening.”  **_AAAI Conference on Artificial Intelligence (AAAI 2022)_**. (#: equal contribution)[[Project Page](https://github.com/liangjiandeng/TDNet)][[PDF](https://liangjiandeng.github.io/papers/2022/jin-aaai2022.pdf)]<a href="javascript:toggleBibtex('jinif2021')" class="textlink">[BibTeX]</a>
+<div id="jinif2021" class="BibTeX noshow">
+<pre>
+@ARTICLE{jinif2021,
+	author={Jin, Zi-Rong and Zhang, Tian-Jing and Jiang, Tai-Xiang and Vivone, Gemine and Deng, Liang-Jian},
+	journal={AAAI Conference on Artificial Intelligence (AAAI)}, 
+	title={LAGConv: Local-context Adaptive Convolution Kernels with Global Harmonic Bias for Pansharpening}, 
+	year={2022},
+	volume={},
+	number={},
+	pages={},
+	doi={}
+   }
+</pre>
+</div>
 
 * ZiRong Jin, YuWei Zhuo, **TianJing Zhang**, XiaoXu Jin and LiangJian Deng.“Parallel Full Depth Feature Fusion Network for Pansharpening.” **_IEEE Transactions on Geoscience and Remote Sensing_**.
 
